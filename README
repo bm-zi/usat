@@ -1,7 +1,7 @@
 
 About USAT project:
 
-USAT is short for "Unix System Administrator Toolkit".
+USAT is short for "Unix System Administrator Tool".
 USAT uses text terminal as interface (tui) and is a  menu based program written by Perl and has in scope to assisst Unix Administrators.
 
 USAT has over 60 menus or submenus that each is supposed to do some task for system admin.
