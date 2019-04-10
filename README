@@ -32,10 +32,12 @@ Important features for USAT
 - Direct access to remote server through USAT interface
   by simulating telnet or ssh
 
-
 General view
-
 USAT starts with a main menu. Main menu is divided
 to other sub menus.
 Each submenu can be considered as a  separate  category
 with its own jobs.
+
+![usat](https://user-images.githubusercontent.com/33130624/55902959-8373b400-5b9a-11e9-9f45-df11bedfa7b4.gif)
+
+
